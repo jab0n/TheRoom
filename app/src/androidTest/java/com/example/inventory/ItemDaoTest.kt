@@ -34,7 +34,7 @@ import org.junit.runner.RunWith
 import java.io.IOException
 
 @RunWith(AndroidJUnit4::class)
-class ItemDaoTest {
+class   ItemDaoTest {
 
     private lateinit var itemDao: ItemDao
     private lateinit var inventoryDatabase: InventoryDatabase
